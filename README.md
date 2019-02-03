@@ -7,7 +7,8 @@
 
   A elm-lang fans group of China
 
-  ## &nbsp;
+  ### &nbsp;
+  ### &nbsp;
 
   <a href="http://qm.qq.com/cgi-bin/qm/qr?k=DJanxlJA_AMOw-tynruACsaqy0HD9SMZ">
     <img src="./group.svg" height="100">
