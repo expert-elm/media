@@ -1,7 +1,15 @@
+### &nbsp;
+
 <div align="center">
-  <img src="./expert-elm.svg" width="320" title="Expert Elm" />
+  <img src="./expert-elm.svg" width="128" title="Expert Elm" />
 
   # Expert Elm
 
   A elm-lang fans group of China
+
+  ## &nbsp;
+
+  <a href="http://qm.qq.com/cgi-bin/qm/qr?k=DJanxlJA_AMOw-tynruACsaqy0HD9SMZ">
+    <img src="./group.svg" height="100">
+  </a>
 </div>
