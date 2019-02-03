@@ -10,7 +10,8 @@
   ### &nbsp;
   ### &nbsp;
 
+  ### Join us
   <a href="http://qm.qq.com/cgi-bin/qm/qr?k=DJanxlJA_AMOw-tynruACsaqy0HD9SMZ">
-    <img src="./group.svg" height="100">
+    <img src="./group.svg" height="64">
   </a>
 </div>
