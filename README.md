@@ -11,7 +11,7 @@
   ### &nbsp;
 
   ### Join us
-  <a href="http://qm.qq.com/cgi-bin/qm/qr?k=DJanxlJA_AMOw-tynruACsaqy0HD9SMZ">
+  <a href="http://qm.qq.com/cgi-bin/qm/qr?k=DJanxlJA_AMOw-tynruACsaqy0HD9SMZ" target="_blank">
     <img src="./group.svg" height="64">
   </a>
 </div>
